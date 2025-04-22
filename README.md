@@ -1,6 +1,3 @@
-Here's the `README.md` formatted for your Go project, documenting the API and its functionality:
-
-```markdown
 # GoTasker
 
 GoTasker is a simple task management web application built with **Go** and **Gin**. It allows users to manage tasks, track progress, and organize their work. The app uses **JWT** for authentication, **GORM** for database management, and **PostgreSQL** for data storage.
@@ -253,10 +250,3 @@ GoTasker is a simple task management web application built with **Go** and **Gin
 - `user_id`: Foreign key to User
 - `duration`: Time spent on the task
 - `note`: Additional notes
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This `README.md` document includes sections for installation, API endpoints, database schema, and a license. You can customize it as needed for your specific project!
